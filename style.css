@@ -90,7 +90,7 @@ footer{
     color: #cccccc25;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 768px) {
     form{
         width: 300px;
     }
